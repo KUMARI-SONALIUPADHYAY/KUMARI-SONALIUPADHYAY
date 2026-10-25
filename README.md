@@ -1,62 +1,81 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:164E63,100:6D28D9&height=180&section=header&text=Kumari%20Sonali&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Build.%20Learn.%20Create.&descSize=20&descAlignY=68" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Google+Student+Ambassador;Microsoft+Learn+Student+Ambassador+%7C+Associate;Research+Intern+at+IIT+Bhilai;Exploring+AI+and+Full-Stack+Development" alt="Animated introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:101828,50:164E63,100:6D28D9&text=Welcome%20Coders!&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Kumari%20Sonali%20%7C%20Build.%20Learn.%20Create.&descSize=18&descAlignY=65" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Kumari+Sonali+%F0%9F%91%8B;B.Tech+CSE+Student;Research+Intern+at+IIT+Bhilai;Google+Student+Ambassador;Microsoft+Learn+Student+Ambassador+%7C+Associate;Building+Ideas+Into+Impact" alt="Animated introduction" />
+
+<br/>
+
+### Fast learner · Curious builder · Technology for impact
+
 <a href="https://kumari-sonali-developer-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-00C7D9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kumari-sonali-38a94a317/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/KUMARI-SONALIUPADHYAY">
+<img src="https://img.shields.io/badge/GitHub-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:upadhyaysonali2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Say%20Hello-DB2777?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 👋 About Me
+<div align="center">
 
-I'm **Kumari Sonali**, a B.Tech Computer Science and Engineering student at Rungta College of Engineering & Technology.
+<img align="right" width="34%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation" />
 
-I'm interested in building practical software solutions, exploring artificial intelligence, and using technology to solve real-world problems.
+</div>
+
+## 👩‍💻 About Me
+
+Hey there! I'm **Kumari Sonali**, a Computer Science and Engineering student at Rungta College of Engineering & Technology, India.
+
+I enjoy exploring new technologies, developing web applications, and building solutions that connect software, AI, and real-world needs.
 
 - 🔬 Research Intern at IIT Bhilai
 - 🌐 Google Student Ambassador
 - 💜 Microsoft Learn Student Ambassador — Associate
-- 💻 GeeksforGeeks Campus Mantri — National Rank 94
-- 🚀 Interested in AI, full-stack development, and software engineering
-- 📚 Continuously learning, experimenting, and building projects
+- 🏅 GeeksforGeeks Campus Mantri — National Rank 94
+- 💡 Interested in AI, full-stack development, and data-driven solutions
+- 🌱 Always learning, building, and improving
+
+<br clear="right"/>
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-**Programming Languages**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cs,js,ts" alt="Programming languages" />
 
-**Web Development**
+**Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" alt="Web development technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,fastapi,tailwind" alt="Development technologies" />
 
-**Databases, Cloud & Tools**
+**Databases & Cloud**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,gcp,git,github,vscode,vercel" alt="Databases and developer tools" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,gcp" alt="Databases and cloud" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Developer tools" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects I've Built
 
 <table>
 <tr>
@@ -64,30 +83,30 @@ I'm interested in building practical software solutions, exploring artificial in
 
 ### 🛡️ CivicWatch AI
 
-An AI-powered civic issue reporting platform for reporting infrastructure problems.
+A civic issue reporting platform for infrastructure problems.
 
-- Image-based issue reporting
-- Geolocation and map integration
-- Authentication and real-time dashboards
+- Location-tagged issue reporting
+- Image uploads and authentication
+- Map integration and live dashboards
 
-**Technologies:** React, Firebase, Gemini API, Google Maps API
+**Stack:** React · Firebase · Gemini API · Google Maps API
 
-[View Repository](https://github.com/KUMARI-SONALIUPADHYAY/CivicWatch-Ai)
+[↗ Explore Project](https://github.com/KUMARI-SONALIUPADHYAY/CivicWatch-Ai)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 Veritas X
+### 🔍 Veritas X
 
-An AI-assisted fraud detection platform for analyzing digital content and assessing potential risks.
+A fraud detection platform for digital content analysis and risk assessment.
 
-- Fraud-risk assessment
-- REST API backend
+- Python-based backend
+- REST API development
 - Explainable risk-scoring workflows
 
-**Technologies:** Python, FastAPI, Machine Learning
+**Stack:** Python · FastAPI · Machine Learning
 
-[View Repository](https://github.com/KUMARI-SONALIUPADHYAY/veritas-x)
+[↗ Explore Project](https://github.com/KUMARI-SONALIUPADHYAY/veritas-x)
 
 </td>
 </tr>
@@ -96,30 +115,30 @@ An AI-assisted fraud detection platform for analyzing digital content and assess
 
 ### 🏥 Smart Health QR
 
-A QR-based healthcare record system designed for consent-based access to patient information.
+A QR-based healthcare record system with consent-based access to patient information.
 
 - QR-driven record retrieval
-- Healthcare-focused interface
-- Responsive web experience
+- Healthcare information access
+- Responsive web interface
 
-**Technologies:** Next.js, TypeScript, Tailwind CSS
+**Stack:** Next.js · TypeScript · Tailwind CSS
 
-[View Repository](https://github.com/KUMARI-SONALIUPADHYAY/smart-health-qr)
+[↗ Explore Project](https://github.com/KUMARI-SONALIUPADHYAY/smart-health-qr)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔗 MeshLink
 
-An offline Bluetooth Low Energy emergency messaging and mesh communication Android application.
+An offline emergency messaging and mesh communication Android application.
 
-- Offline emergency communication
-- Bluetooth Low Energy
-- Android development with Kotlin
+- Bluetooth Low Energy communication
+- Offline messaging concept
+- Kotlin and Jetpack Compose
 
-**Technologies:** Kotlin, Jetpack Compose
+**Stack:** Kotlin · Jetpack Compose · BLE
 
-[View Repository](https://github.com/KUMARI-SONALIUPADHYAY/MeshLink)
+[↗ Explore Project](https://github.com/KUMARI-SONALIUPADHYAY/MeshLink)
 
 </td>
 </tr>
@@ -128,71 +147,62 @@ An offline Bluetooth Low Energy emergency messaging and mesh communication Andro
 <div align="center">
 
 <a href="https://github.com/KUMARI-SONALIUPADHYAY?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Projects-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/More%20Repositories-View%20All-164E63?style=for-the-badge&logo=github" />
 </a>
 
 </div>
-
----
-
-## 💼 Experience & Leadership
-
-**Research Intern — IIT Bhilai**
-- Working with field, GIS, and mapping data for rural sustainability research.
-- Contributing to data analysis for cow-welfare initiatives.
-
-**Google Student Ambassador**
-- Promoting Google technologies and AI within the student community.
-
-**Microsoft Learn Student Ambassador — Associate**
-- Engaging with Microsoft developer technologies and student learning.
-
-**GeeksforGeeks Campus Mantri**
-- National Rank 94 among Campus Mantris.
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 Winner — Nano Banana Challenge, 2026
-- 🥇 Winner — Technical Scripter, GeeksforGeeks Connect Edition 2026
-- 🏅 GeeksforGeeks Campus Mantri — National Rank 94
-- ☁️ Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- 💻 Microsoft Applied Skills — C#
-- 🔐 Cybersecurity — Penetration Testing & Exploitation Techniques
-- 📊 Data Science & AI/ML Certification
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google-Nano%20Banana%20Challenge%20Winner-F9AB00?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-Technical%20Scripter%20Winner-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/Campus%20Mantri-National%20Rank%2094-7C3AED?style=flat-square" />
+
+</div>
+
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- Microsoft Applied Skills — C#
+- Cybersecurity — Penetration Testing & Exploitation Techniques
+- Data Science & AI/ML Certification
 
 ---
 
-## 📈 GitHub Overview
+## 💼 Experience & Community
+
+| Role | Organization |
+|---|---|
+| Research Intern | IIT Bhilai |
+| Student Ambassador | Google |
+| Student Ambassador — Associate | Microsoft |
+| Campus Mantri | GeeksforGeeks |
+
+---
+
+## 📊 GitHub Insights
 
 <div align="center">
 
 <a href="https://github.com/KUMARI-SONALIUPADHYAY">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KUMARI-SONALIUPADHYAY&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KUMARI-SONALIUPADHYAY&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </a>
-
 <a href="https://github.com/KUMARI-SONALIUPADHYAY">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARI-SONALIUPADHYAY&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARI-SONALIUPADHYAY&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 </a>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in collaborating on meaningful projects, learning from other developers, and exploring software engineering opportunities.
-
 <div align="center">
 
-<a href="https://kumari-sonali-developer-portfolio.vercel.app/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/kumari-sonali-38a94a317/">LinkedIn</a> •
-<a href="https://github.com/KUMARI-SONALIUPADHYAY">GitHub</a> •
-<a href="mailto:upadhyaysonali2005@gmail.com">Email</a>
+### ✨ Build. Learn. Create. Repeat.
 
-<br/><br/>
+*Turning curiosity into code, and ideas into impact.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,100:6D28D9&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:164E63,100:6D28D9" />
 
 </div>
