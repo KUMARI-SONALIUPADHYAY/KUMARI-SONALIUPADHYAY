@@ -182,18 +182,17 @@ An offline emergency messaging and mesh communication Android application.
 
 ---
 
+
 ## 📊 GitHub Insights
 
 <div align="center">
 
-<a href="https://github.com/KUMARI-SONALIUPADHYAY">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KUMARI-SONALIUPADHYAY&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/KUMARI-SONALIUPADHYAY">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARI-SONALIUPADHYAY&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KUMARI-SONALIUPADHYAY&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARI-SONALIUPADHYAY&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
 
 </div>
+
 
 ---
 
